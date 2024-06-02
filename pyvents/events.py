@@ -3,7 +3,12 @@ import logging
 import threading
 from typing import Callable, Collection
 
-from .types import BaseAsyncEvent, BaseEvent, BaseEventChannel, BaseThreadedEvent
+from .types import (
+    BaseAsyncEvent,
+    BaseEvent,
+    BaseEventChannel,
+    BaseThreadedEvent,
+)
 
 logger = logging.getLogger("utils.events")
 
