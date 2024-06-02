@@ -12,6 +12,9 @@ description = "PyVents is a powerful Python library for events"
 authors = ["CrazyProger1 <crazyproger1@gmail.com>"]
 license = "MIT"
 readme = "README.md"
+homepage = "https://github.com/CrazyProger1/PyVents"
+repository = "https://github.com/CrazyProger1/PyVents"
+documentation = "https://github.com/CrazyProger1/PyVents"
 
 [tool.poetry.dependencies]
 python = "^3.12"
